@@ -1,13 +1,13 @@
 {
   "name": "easyxdm",
-  "version": "2.4.19-pre.2",
+  "version": "2.5.0",
   "description": "",
   "main": "lib/easyXDM.js",
-  "homepage": "",
+  "homepage": "https://github.com/oyvindkinsey/easyXDM",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gobengo/easyXDM-npm.git"
+    "url": "git://github.com/MagicMau/easyXDM-npm.git"
   },
-  "author": "",
+  "author": "Øyvind Sean Kinsey",
   "license": "MIT"
 }
