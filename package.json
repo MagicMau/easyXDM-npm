@@ -3,6 +3,7 @@
   "version": "2.5.0",
   "description": "",
   "main": "lib/easyXDM.js",
+  "typings": "lib/easyXDM.d.ts",
   "homepage": "https://github.com/oyvindkinsey/easyXDM",
   "repository": {
     "type": "git",
